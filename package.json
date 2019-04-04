@@ -1,6 +1,6 @@
 {
   "name": "arm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "bin": "./index.js",
   "description": "arm可以帮助你轻松地添加、删除、查询、切换所有的Npm/Yarn Registries,目前内置npm,taobao,yarn四个源",
