@@ -1,5 +1,5 @@
 {
-  "name": "arm",
+  "name": "sarm",
   "version": "1.0.3",
   "main": "index.js",
   "bin": "./index.js",
