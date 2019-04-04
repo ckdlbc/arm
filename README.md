@@ -116,7 +116,3 @@ $ arm help
 - [npm](https://www.npmjs.org)
 - [taobao](http://npm.taobao.org/)
 - [yarn](https://registry.yarnpkg.com/)
-
-## LICENSE
-
-公司私用，闭源
